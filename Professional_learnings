@@ -1,0 +1,5 @@
+Debuggers: JTAG, SWD openocd, GDB, LLVM, LLDB, ftrace, kgdb, scons
+ARCH: ARM, RISC-V
+RTOS, 
+bmap, qemu, yocto,
+IDEs: VS code, Eclipse, 
