@@ -1,4 +1,4 @@
-Debuggers: JTAG, SWD openocd, GDB, LLVM, LLDB, ftrace, kgdb, scons
+Debuggers: JTAG(Joint Test Action Group), SWD(Serial Wire Debug) openocd(Open On-chip Debugger), GDB, LLVM(Low Level Virtual MAchine), LLDB(Low Level Debugger), ftrace, kgdb, scons
 ARCH: ARM, RISC-V
 RTOS, 
 bmap, qemu, yocto,
