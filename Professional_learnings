@@ -1,5 +1,9 @@
+ARCH: ARM M-series for Microcontrollers and A-series for Processors, RISC-V
+RTOS,
+Build systems: Buildroot, yocto to create custom linux distributions
+Communication protocols: I2C, SPI UART, Wi-Fi, Bluetooth, Ethernet, CAN
+IDEs: VS code, Eclipse, Keil
 Debuggers: JTAG(Joint Test Action Group), SWD(Serial Wire Debug) openocd(Open On-chip Debugger), GDB, LLVM(Low Level Virtual MAchine), LLDB(Low Level Debugger), ftrace, kgdb, scons
-ARCH: ARM, RISC-V
-RTOS, 
-bmap, qemu, yocto,
-IDEs: VS code, Eclipse, 
+Version control tools: Git, SVN
+bmap, qemu, 
+
